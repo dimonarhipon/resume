@@ -49,6 +49,11 @@ dt {
   margin-left: 10px;
 }
 
+.data__link {
+  display: block;
+  color: #1e1e1e;
+}
+
 .footer {
   margin-bottom: 50px;
 }
